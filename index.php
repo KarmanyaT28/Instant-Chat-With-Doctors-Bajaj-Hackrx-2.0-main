@@ -97,7 +97,7 @@
     </div>
 </div> -->
 <div class="container">
-    <div id="page-wrap">
+    <div id="page-wrap">N
         
         <p id="name-area">
         <div class="container" id="chat-wrap">
